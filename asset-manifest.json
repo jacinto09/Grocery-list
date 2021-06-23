@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Grocery-list/static/css/main.9ef67dfb.chunk.css",
+    "main.js": "/Grocery-list/static/js/main.33b02059.chunk.js",
+    "main.js.map": "/Grocery-list/static/js/main.33b02059.chunk.js.map",
+    "runtime-main.js": "/Grocery-list/static/js/runtime-main.80ded793.js",
+    "runtime-main.js.map": "/Grocery-list/static/js/runtime-main.80ded793.js.map",
+    "static/js/2.fde77be6.chunk.js": "/Grocery-list/static/js/2.fde77be6.chunk.js",
+    "static/js/2.fde77be6.chunk.js.map": "/Grocery-list/static/js/2.fde77be6.chunk.js.map",
+    "index.html": "/Grocery-list/index.html",
+    "static/css/main.9ef67dfb.chunk.css.map": "/Grocery-list/static/css/main.9ef67dfb.chunk.css.map",
+    "static/js/2.fde77be6.chunk.js.LICENSE.txt": "/Grocery-list/static/js/2.fde77be6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80ded793.js",
+    "static/js/2.fde77be6.chunk.js",
+    "static/css/main.9ef67dfb.chunk.css",
+    "static/js/main.33b02059.chunk.js"
+  ]
+}
